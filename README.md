@@ -1,1 +1,1 @@
-### Hi there My name is Tomás Dias, I am from Torre de Moncorvo, Bragança and i'm Informatics Engineering Student at Universidade de Coimbra. In the first year I learned Python and C. In the last year I learned Java, JavaScript.👋
+### My name is Tomás Dias, I am from Torre de Moncorvo, Bragança and i'm Informatics Engineering Student at Universidade de Coimbra. In the first year I learned Python and C. In the last year I learned Java, JavaScript.👋
